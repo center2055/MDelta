@@ -96,7 +96,4 @@ After running the tool, you can verify the replacement by:
 ## 📞 Support
 
 If you encounter issues:
-1. Ensure Administrator privileges
-2. Verify Minecraft Bedrock demo is installed
-3. Check that both DLL files were replaced
-4. Restart your computer if needed
+Oppen an Issue or contact me on discord: centerxx
